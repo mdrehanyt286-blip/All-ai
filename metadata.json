@@ -1,0 +1,6 @@
+{
+  "name": "Unified Omni AI Workspace",
+  "description": "An all-in-one professional AI workshop powered by Google Gemini Models, featuring real-time chat, Google Search and Maps grounding, low-latency Live audio voice, image editing, audio transcribers, Veo video animations, and Lyria music streams.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
